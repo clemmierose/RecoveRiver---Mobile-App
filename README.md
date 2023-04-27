@@ -7,3 +7,11 @@ The application consists of multiple exercises which aim to provide support to p
 RecoveRiver consists of pages including mindfulness meditation videos, notes taking sections, rating one's mood on a scale, reading, entering answers and reviewing user progress. 
 
 The app have a sentiment analysis module implemented within it which analyzes user's text input and indicated what mood they might be in. Based on that a selection of specific to mood exercises is displayed to the user.
+
+![Android_Graphics](https://user-images.githubusercontent.com/84794517/235005239-77c43075-dc9b-4e20-8212-ebca29f9e753.png)
+
+
+![ExercisScreenss](https://user-images.githubusercontent.com/84794517/235005292-d3089537-485a-4dcb-a318-85554c71934b.JPG)
+
+
+![iPad Pro 12 9in – 2](https://user-images.githubusercontent.com/84794517/235005311-f046a60a-89c7-4194-820c-a8e7e7197bc4.png)
