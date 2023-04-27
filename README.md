@@ -11,7 +11,10 @@ The app have a sentiment analysis module implemented within it which analyzes us
 ![Android_Graphics](https://user-images.githubusercontent.com/84794517/235005239-77c43075-dc9b-4e20-8212-ebca29f9e753.png)
 
 
+
+![iPad Pro 12 9in – 2](https://user-images.githubusercontent.com/84794517/235005311-f046a60a-89c7-4194-820c-a8e7e7197bc4.png)
+
 ![ExercisScreenss](https://user-images.githubusercontent.com/84794517/235005292-d3089537-485a-4dcb-a318-85554c71934b.JPG)
 
 
-![iPad Pro 12 9in – 2](https://user-images.githubusercontent.com/84794517/235005311-f046a60a-89c7-4194-820c-a8e7e7197bc4.png)
+![EmojiRatingAll](https://user-images.githubusercontent.com/84794517/235005425-1b345fb9-0b81-4aa3-8ce5-57eb2cd3746f.JPG)
